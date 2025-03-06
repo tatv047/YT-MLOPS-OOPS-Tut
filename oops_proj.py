@@ -79,4 +79,4 @@ class chatbook:
 
     
 
-obj = chatbook()
+# obj = chatbook()
